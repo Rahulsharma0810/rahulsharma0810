@@ -1,4 +1,4 @@
-[![rvsharma banner](images/display_picture.png)](https://rvsharma.com)
+[![rvsharma banner](images/display_banner.png)](https://rvsharma.com)
 
 <h2 align='center'> Sr Cloud Security Consultant (GCP) / DevSecOps Enthusiast </h2>
 
@@ -14,7 +14,6 @@
 
 I write blog posts, most of which you will find on my [Medium](https://medium.com/@rahulvinodsharma/) or visit my profile at [rvsharma.com](https://rvsharma.com).
 
-
 <h3 align='left'> Professional Summary </h3>
 
 - With over seven years of experience in the I.T. industry, I have a diverse background in networking, DevOps, cloud, and cyber security. Exceptionally skilled in using Google Cloud Platform and its security features, and have hands-on experience in automating various aspects of I.T. operations, including configuration management, security, build/release management, cloud resource utilization, and infrastructure automation. A team player and thrive in collaborative environments where I can contribute my expertise to help drive success for the organization.
@@ -29,6 +28,7 @@ I write blog posts, most of which you will find on my [Medium](https://medium.co
 #### PROFESSIONAL CERTIFICATES
 
 - **Google LLC.**
+
   - [Professional Cloud DevOps Engineer.](https://www.credential.net/8e694924-8a4c-4845-b9a6-0ecf820d8988) - Oct 2022
   - [Cloud Digital Leader.](https://www.credential.net/e9290eea-49ac-4909-8616-b2a90a6ccdf5) - Oct 2022
   - [Professional Cloud Developer.](https://www.credential.net/9fa81d1e-a058-44fa-be5f-0f91d2866615) - Oct 2022
@@ -46,6 +46,7 @@ I write blog posts, most of which you will find on my [Medium](https://medium.co
   - 200-125 CCNA Routing and Switching - 2018 Sep
 
 ---
+
 #### CAREER PROFILE
 
 **Sr. Cloud Security Consultant**, 66Degress, **Jan / 2022 - Present**, Mysuru, IN
@@ -108,7 +109,7 @@ I write blog posts, most of which you will find on my [Medium](https://medium.co
 
   **Tools Used**: GCP, Docker, Kubernetes, Monitoring, Pagerduty, Ansible, Terraform, Bash, Python. Bitbucket CI/CD, Jenkins, Spinnaker, apache, Nginx etc.
 
-**Network Administrator**, CMI PVT. LTD., **AUG.** **/ 2015 - OCT / 2017** *-* Delhi, IN
+**Network Administrator**, CMI PVT. LTD., **AUG.** **/ 2015 - OCT / 2017** _-_ Delhi, IN
 
 - Installing and configuring Linux operating systems, including installing software and drivers and configuring system settings and parameters.
 
@@ -124,7 +125,7 @@ I write blog posts, most of which you will find on my [Medium](https://medium.co
 
   **Tools Used**: Linux Ubuntu, R.H.E.L., Git, Zabbix, Nagios, Bash, Python, Apache, Nginx, etc.
 
-**Junior Penetration Tester**, Sandrock eSecurities Pvt. Ltd., **Jan / 2015 - July / 2015** *-* Delhi, IN
+**Junior Penetration Tester**, Sandrock eSecurities Pvt. Ltd., **Jan / 2015 - July / 2015** _-_ Delhi, IN
 
 - Using tools such as Kali Linux and the Open Web Application Security Project (O.W.A.S.P.) framework to identify vulnerabilities in web applications.
 
