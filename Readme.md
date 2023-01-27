@@ -6,11 +6,14 @@
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/rahulvinodsharma/"><img height="30" src="images/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/rahulsharma0810"><img height="30" src="images/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.youtube.com/channel/UCSlmOqPT6tjHc9pjLik8K7w"><img height="30" src="images/youtube.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://wa.me/919711937092"><img height="30" src="images/whatsapp.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/hacker.rvsharma/"><img height="30" src="images/instagram.png?raw=true"></a>
+<a href="https://github.com/Rahulsharma0810"><img height="30" src="images/github.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/rahulsharma0810"><img height="30" src="images/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/hacker.rvsharma/"><img height="30" src="images/instagram.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/rahulsharma0810"><img height="30" src="images/facebook.png?raw=true"></a>
 </p>
-  
+
 ### My Digital Garden 🌱
 
 I write blog posts, most of which you will find on my [Medium](https://medium.com/@rahulvinodsharma/) or visit my profile at [rvsharma.com](https://rvsharma.com).
