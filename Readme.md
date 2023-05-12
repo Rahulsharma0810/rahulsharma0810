@@ -46,6 +46,8 @@ I write blog posts, most of which you will find on my [Medium](https://medium.co
   - [Terraform Associate - 2021 Mar](https://www.credly.com/badges/443ab208-b305-48f2-b0ce-4fd50df5faf8/public_url)
 - **Cloud-Native Computing Foundation**
   - [Certified Kubernetes Administrator (CKA) - 2020 Nov](https://www.credly.com/badges/8d8a8c96-3361-4fe0-a09d-d98c3ce77e73/public_url)
+  - [Certified Kubernetes Administrator (CKA) - 2023 May](https://www.credly.com/badges/600e2563-5db7-481f-9d3a-6674863f3c3c/public_url)
+
 - **Cisco Systems**
   - 200-125 CCNA Routing and Switching - 2018 Sep
 
