@@ -41,6 +41,9 @@ I write blog posts, most of which you will find on my [Medium](https://medium.co
   - [Professional Cloud Architect.](https://www.credential.net/d85d5501-5a69-4111-8508-9d24bb6cf2d0) - Aug 2022
   - [Associate Cloud Engineer.](https://www.credential.net/7808da12-2b20-4821-8d63-d09910b35807) - Jan 2022
   - [Professional Cloud Security Engineer.](https://www.credential.net/9220bffb-2340-41df-8316-413340863802) - Aug 2021
+  
+-  **ISC2**
+  - Certified in CloudSecurity - Jun 2024
 
 - **HashiCorp**
   - [Terraform Associate - 2021 Mar](https://www.credly.com/badges/443ab208-b305-48f2-b0ce-4fd50df5faf8/public_url)
