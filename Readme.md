@@ -20,7 +20,7 @@ I write blog posts, most of which you will find on my [Medium](https://medium.co
 
 <h3 align='left'> Professional Summary </h3>
 
-- With over seven years of experience in the I.T. industry, I have a diverse background in networking, DevOps, cloud, and cyber security. Exceptionally skilled in using Google Cloud Platform and its security features, and have hands-on experience in automating various aspects of I.T. operations, including configuration management, security, build/release management, cloud resource utilization, and infrastructure automation. A team player and thrive in collaborative environments where I can contribute my expertise to help drive success for the organization.
+- With over seven years of experience in the IT industry, I have a diverse background in networking, DevOps, cloud, and cyber security. Exceptionally skilled in using Google Cloud Platform and its security features, and have hands-on experience in automating various aspects of I.T. operations, including configuration management, security, build/release management, cloud resource utilization, and infrastructure automation. A team player and thrive in collaborative environments where I can contribute my expertise to help drive success for the organization.
 - Worked with Compliance Like PCI-DSS, HIPAA, N.I.S.T., and C.I.S. Frameworks.
 - Experiences with industry-leading tools and models like C.S.P.M., S.I.E.M., C.N.A.P.P., C.W.P.P., and Zero trust.
 - Experience in designing, implementing, and maintaining secure cloud-based systems and environments.
@@ -41,6 +41,7 @@ I write blog posts, most of which you will find on my [Medium](https://medium.co
   - [Professional Cloud Architect.](https://www.credential.net/d85d5501-5a69-4111-8508-9d24bb6cf2d0) - Aug 2022
   - [Associate Cloud Engineer.](https://www.credential.net/7808da12-2b20-4821-8d63-d09910b35807) - Jan 2022
   - [Professional Cloud Security Engineer.](https://www.credential.net/9220bffb-2340-41df-8316-413340863802) - Aug 2021
+  - [Professional Data Engineer](https://www.credential.net/c75995a6-8c08-4365-8a33-f3e0f5a2caaf#gs.5wceu1) - Sep 2023
   
 -  **ISC2**
   - Certified in CloudSecurity - Jun 2024
