@@ -42,6 +42,7 @@ I write blog posts, most of which you will find on my [Medium](https://medium.co
   - [Associate Cloud Engineer.](https://www.credential.net/7808da12-2b20-4821-8d63-d09910b35807) - Jan 2022
   - [Professional Cloud Security Engineer.](https://www.credential.net/9220bffb-2340-41df-8316-413340863802) - Aug 2021
   - [Professional Data Engineer](https://www.credential.net/c75995a6-8c08-4365-8a33-f3e0f5a2caaf#gs.5wceu1) - Sep 2023
+  - [Professional Workspace Administrator]() - Sep 2023
   
 -  **ISC2**
   - Certified in CloudSecurity - Jun 2024
