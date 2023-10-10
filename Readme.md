@@ -20,12 +20,12 @@ I write blog posts, most of which you will find on my [Medium](https://medium.co
 
 <h3 align='left'> Professional Summary </h3>
 
-- With over seven years of experience in the IT industry, I have a diverse background in networking, DevOps, cloud, and cyber security. Exceptionally skilled in using Google Cloud Platform and its security features, and have hands-on experience in automating various aspects of I.T. operations, including configuration management, security, build/release management, cloud resource utilization, and infrastructure automation. A team player and thrive in collaborative environments where I can contribute my expertise to help drive success for the organization.
+- With over Nine years of experience in the IT industry, I have a diverse background in networking, DevOps, Cloud, and cyber security. Exceptionally skilled in using Google Cloud Platform and Cloud Security, and have hands-on experience in automating various aspects of I.T. operations, including configuration management, security, build/release management, cloud resource utilization, and infrastructure automation. A team player and thrive in collaborative environments where I can contribute my expertise to help drive success for the organization.
 - Worked with Compliance Like PCI-DSS, HIPAA, N.I.S.T., and C.I.S. Frameworks.
 - Experiences with industry-leading tools and models like C.S.P.M., S.I.E.M., C.N.A.P.P., C.W.P.P., and Zero trust.
 - Experience in designing, implementing, and maintaining secure cloud-based systems and environments.
 - Strong communication skills and ability to collaborate with cross-functional teams to ensure the security of an organization's cloud-based systems and data.
-- Highly motivated individual always looking to learn and improve my skills. Passion for open source tools and enjoy maintaining a home lab to experiment with new technologies and techniques. A fast learner and thrive in dynamic environments where I can take on new challenges and learn new skills. In addition, I Believe in giving back to the community and am committed to sharing my knowledge and expertise with others.
+- Highly motivated individual who is always looking to learn and improve my skills. Passion for open source tools and enjoy maintaining a home lab to experiment with new technologies and techniques. A fast learner and thrive in dynamic environments where I can take on new challenges and learn new skills. In addition, I Believe in giving back to the community and am committed to sharing my knowledge and expertise with others.
 
 ---
 
@@ -42,7 +42,7 @@ I write blog posts, most of which you will find on my [Medium](https://medium.co
   - [Associate Cloud Engineer.](https://www.credential.net/7808da12-2b20-4821-8d63-d09910b35807) - Jan 2022
   - [Professional Cloud Security Engineer.](https://www.credential.net/9220bffb-2340-41df-8316-413340863802) - Aug 2021
   - [Professional Data Engineer](https://www.credential.net/c75995a6-8c08-4365-8a33-f3e0f5a2caaf#gs.5wceu1) - Sep 2023
-  - [Professional Workspace Administrator]() - Sep 2023
+  - [Professional Workspace Administrator](https://www.credential.net/8ed8fc77-783d-4895-ab36-ad04b6d60b2b#gs.67lns6) - Sep 2023
   
 -  **ISC2**
   - Certified in CloudSecurity - Jun 2024
@@ -64,7 +64,7 @@ I write blog posts, most of which you will find on my [Medium](https://medium.co
 **Project**: Davita Inc (HealthCare)
 **Cloud**: Google Cloud Platform
 
-- Implemented C.S.P.M., C.I.E.M. and C.W.P.P. using wiz.io
+- Implemented C.S.P.M., C.I.E.M. and C.W.P.P. using wiz.io. Snyk.
 
 - Implemented Container vulnerability scanning in Gitlab CI along the organization.
 
@@ -84,7 +84,7 @@ I write blog posts, most of which you will find on my [Medium](https://medium.co
 **Project**: O.V.O. Payments (PT Visionet Internasional)
 **Cloud**: Google Cloud Platform
 
-- Designing & Implementing Manifests for hardening Multiple Clouds with Different Compliances like PCI, SOC/2, HIPAA, C.I.S., ISO, and N.I.S.T.
+- Designing and implementing Manifests for hardening Multiple Clouds with Different Compliances like PCI, SOC/2, HIPAA, C.I.S., ISO, and N.I.S.T.
 
 - Implementing Threat alerting systems with tools such as GCP Audit logs and Cloudtrail. Worked with S.I.E.M., C.S.P.M., and C.W.P.P.
 
@@ -108,7 +108,7 @@ I write blog posts, most of which you will find on my [Medium](https://medium.co
 
 - Worked on GCP as Lead Ops Engineer.
 
-- Migrated 3-tier application From on-premises to GCP occupying more than USD 50K GCP resources per month.
+- Migrated 3-tier application From on-premises to GCP, occupying more than USD 50K GCP resources per month.
 
 - Designing and implementing cloud-based solutions that meet the organization's business needs and objectives, using tools such as Terraform to automate the infrastructure provisioning process.
 
@@ -160,7 +160,7 @@ I write blog posts, most of which you will find on my [Medium](https://medium.co
   - CGPA: 7.2
 - 2012 - 2013 Senior Secondary Education, Jamia Urdu Aligarh
   - Percentage: 69.13%
-- 2014 - 2017 Bachelors of Computer Applications, Jaipur National University
+- 2014 - 2017 Bachelor of Computer Applications, Jaipur National University
   - Percentage 70%
 - 2017 - 2019 Masters of Computer Applications, Jaipur National University
   - Percentage 66.4%
